@@ -1,0 +1,201 @@
+company_name,qualification,skills_required,state,district,intern_title
+IBM India,BCA,"MS Excel, Communication, Business Writing",Uttar Pradesh,Lucknow,Embedded Systems Intern
+Capgemini,B.Tech Computer Science,"Java, Spring Boot, MySQL",Telangana,Hyderabad,Full Stack Intern
+Persistent Systems,M.Tech Computer Science,"AI, Machine Learning, Python",Tamil Nadu,Kanchipuram,Cloud Engineering Intern
+Zoho,B.Sc IT,"JavaScript, React, Node.js",Tamil Nadu,Chennai,Frontend Intern
+Oracle India,B.Sc IT,"Business Analysis, Excel, Power BI",Maharashtra,Mumbai Suburban,AI Intern
+Capgemini,B.Sc IT,"Java, Spring Boot, MySQL",Delhi,New Delhi,Frontend Intern
+HCL Technologies,B.Tech ECE,"Embedded Systems, IoT, C",Punjab,Amritsar,IoT Intern
+Mindtree,M.Tech Computer Science,"Python, Django, REST APIs",Delhi,New Delhi,Database Intern
+TCS,B.Tech ECE,"Python, Django, REST APIs",Delhi,New Delhi,AI Intern
+Mphasis,B.Com,"Python, SQL, Data Analysis",Maharashtra,Mumbai Suburban,Software Development Intern
+L&T Infotech,B.Com,"C++, Cloud Computing, Linux",Punjab,Amritsar,Network Security Intern
+HCL Technologies,M.Tech Computer Science,"AI, Machine Learning, Python",Uttar Pradesh,Lucknow,Machine Learning Intern
+TCS,B.Tech Computer Science,"Cloud, Kubernetes, Docker",Gujarat,Ahmedabad,Web Development Intern
+Infosys,B.Com,"C++, Cloud Computing, Linux",Uttar Pradesh,Lucknow,Software Development Intern
+Persistent Systems,BBA,"Cloud, Kubernetes, Docker",Tamil Nadu,Chennai,Network Security Intern
+TCS,B.Sc IT,"MS Excel, Communication, Business Writing",Haryana,Gurgaon,Software Development Intern
+Persistent Systems,BBA,"Python, SQL, Data Analysis",Delhi,New Delhi,UI/UX Design Intern
+L&T Infotech,B.Sc IT,"Embedded Systems, IoT, C",Gujarat,Ahmedabad,Software Development Intern
+HCL Technologies,M.Tech Computer Science,"Python, SQL, Data Analysis",Punjab,Amritsar,Backend Intern
+Cognizant,BBA,"MS Excel, Communication, Business Writing",Madhya Pradesh,Indore,UI/UX Design Intern
+Zoho,B.Com,"MS Excel, Communication, Business Writing",Punjab,Amritsar,Business Analyst Intern
+Capgemini,BBA,"Java, Spring Boot, MySQL",Maharashtra,Pune,Embedded Systems Intern
+Infosys,M.Tech Computer Science,"Python, Django, REST APIs",Kerala,Ernakulam,Full Stack Intern
+Cognizant,B.Sc IT,"Embedded Systems, IoT, C",Madhya Pradesh,Indore,AI Intern
+L&T Infotech,M.Tech Computer Science,"C++, Cloud Computing, Linux",Maharashtra,Mumbai Suburban,Data Analyst Intern
+Persistent Systems,B.Tech Mechanical,"Cloud, Kubernetes, Docker",Punjab,Amritsar,Machine Learning Intern
+Tech Mahindra,B.Tech Mechanical,"C++, Cloud Computing, Linux",Telangana,Hyderabad,Web Development Intern
+Oracle India,MBA,"Business Analysis, Excel, Power BI",West Bengal,Kolkata,Cloud Engineering Intern
+Mindtree,B.Tech ECE,"JavaScript, React, Node.js",Telangana,Hyderabad,UI/UX Design Intern
+Tech Mahindra,B.Sc IT,"Business Analysis, Excel, Power BI",Karnataka,Bengaluru Urban,Web Development Intern
+Capgemini,MBA,"Java, Spring Boot, MySQL",Kerala,Ernakulam,Network Security Intern
+Capgemini,B.Tech Computer Science,"Java, Spring Boot, MySQL",Uttar Pradesh,Lucknow,Data Analyst Intern
+Mphasis,B.Com,"MS Excel, Communication, Business Writing",Delhi,New Delhi,Network Security Intern
+Capgemini,M.Tech Computer Science,"Java, Spring Boot, MySQL",Maharashtra,Pune,Cloud Engineering Intern
+Oracle India,MBA,"AI, Machine Learning, Python",Gujarat,Ahmedabad,Software Development Intern
+Capgemini,MCA,"Python, Django, REST APIs",Maharashtra,Mumbai Suburban,Database Intern
+Oracle India,BCA,"C++, Cloud Computing, Linux",Haryana,Gurgaon,Embedded Systems Intern
+HCL Technologies,B.Tech Mechanical,"AI, Machine Learning, Python",Tamil Nadu,Chennai,IoT Intern
+Infosys,B.Tech ECE,"JavaScript, React, Node.js",West Bengal,Kolkata,Embedded Systems Intern
+L&T Infotech,BCA,"Java, Spring Boot, MySQL",Maharashtra,Mumbai Suburban,Business Analyst Intern
+IBM India,MBA,"JavaScript, React, Node.js",Gujarat,Ahmedabad,Web Development Intern
+TCS,BBA,"Embedded Systems, IoT, C",Haryana,Gurgaon,Web Development Intern
+Wipro,B.Tech Mechanical,"MS Excel, Communication, Business Writing",Maharashtra,Mumbai Suburban,Backend Intern
+Infosys,B.Tech Computer Science,"Business Analysis, Excel, Power BI",West Bengal,Kolkata,Web Development Intern
+L&T Infotech,B.Sc IT,"Cloud, Kubernetes, Docker",West Bengal,Kolkata,Database Intern
+L&T Infotech,B.Sc IT,"Business Analysis, Excel, Power BI",Punjab,Amritsar,Frontend Intern
+Tech Mahindra,B.Tech Computer Science,"JavaScript, React, Node.js",Gujarat,Ahmedabad,Business Analyst Intern
+HCL Technologies,B.Com,"JavaScript, React, Node.js",Gujarat,Ahmedabad,Frontend Intern
+Mphasis,B.Sc IT,"JavaScript, React, Node.js",Madhya Pradesh,Indore,Database Intern
+Accenture,M.Tech Computer Science,"MS Excel, Communication, Business Writing",Rajasthan,Jaipur,Database Intern
+HCL Technologies,M.Tech Computer Science,"Cloud, Kubernetes, Docker",Gujarat,Ahmedabad,Business Analyst Intern
+L&T Infotech,M.Tech Computer Science,"Java, Spring Boot, MySQL",Gujarat,Ahmedabad,Cloud Engineering Intern
+Oracle India,BCA,"MS Excel, Communication, Business Writing",Uttar Pradesh,Lucknow,Cloud Engineering Intern
+HCL Technologies,B.Com,"JavaScript, React, Node.js",Haryana,Gurgaon,Web Development Intern
+HCL Technologies,MBA,"Python, Django, REST APIs",Madhya Pradesh,Indore,Network Security Intern
+Tech Mahindra,BBA,"Python, SQL, Data Analysis",Rajasthan,Jaipur,Frontend Intern
+IBM India,B.Com,"MS Excel, Communication, Business Writing",Rajasthan,Jaipur,Full Stack Intern
+L&T Infotech,B.Tech Mechanical,"Cloud, Kubernetes, Docker",Maharashtra,Pune,Full Stack Intern
+Zoho,B.Com,"Business Analysis, Excel, Power BI",Punjab,Amritsar,Business Analyst Intern
+Zoho,MCA,"Cloud, Kubernetes, Docker",Madhya Pradesh,Indore,Embedded Systems Intern
+Capgemini,MBA,"AI, Machine Learning, Python",Haryana,Gurgaon,Backend Intern
+IBM India,B.Sc IT,"Python, SQL, Data Analysis",Rajasthan,Jaipur,Database Intern
+Zoho,B.Com,"C++, Cloud Computing, Linux",Tamil Nadu,Chennai,Data Analyst Intern
+L&T Infotech,B.Tech Computer Science,"MS Excel, Communication, Business Writing",Maharashtra,Pune,Machine Learning Intern
+HCL Technologies,B.Tech Computer Science,"MS Excel, Communication, Business Writing",Haryana,Gurgaon,Software Development Intern
+Tech Mahindra,B.Tech Mechanical,"Business Analysis, Excel, Power BI",Karnataka,Bengaluru Urban,Machine Learning Intern
+Accenture,MCA,"JavaScript, React, Node.js",Haryana,Gurgaon,Network Security Intern
+Tech Mahindra,BCA,"MS Excel, Communication, Business Writing",Telangana,Hyderabad,Business Analyst Intern
+Persistent Systems,M.Tech Computer Science,"Cloud, Kubernetes, Docker",Madhya Pradesh,Indore,Data Analyst Intern
+Mphasis,B.Sc IT,"Python, Django, REST APIs",Karnataka,Bengaluru Urban,Database Intern
+Zoho,MCA,"Python, SQL, Data Analysis",Rajasthan,Jaipur,Cloud Engineering Intern
+Wipro,MBA,"Java, Spring Boot, MySQL",West Bengal,Kolkata,Embedded Systems Intern
+Persistent Systems,BBA,"C++, Cloud Computing, Linux",Maharashtra,Mumbai Suburban,UI/UX Design Intern
+HCL Technologies,B.Tech ECE,"C++, Cloud Computing, Linux",West Bengal,Kolkata,Web Development Intern
+Wipro,B.Tech Mechanical,"Embedded Systems, IoT, C",Haryana,Gurgaon,Machine Learning Intern
+Wipro,BBA,"AI, Machine Learning, Python",Maharashtra,Mumbai Suburban,IoT Intern
+Tech Mahindra,M.Tech Computer Science,"C++, Cloud Computing, Linux",Maharashtra,Pune,Web Development Intern
+Oracle India,B.Sc IT,"Cloud, Kubernetes, Docker",Uttar Pradesh,Lucknow,UI/UX Design Intern
+Zoho,BBA,"Python, Django, REST APIs",Haryana,Gurgaon,IoT Intern
+Cognizant,MCA,"AI, Machine Learning, Python",Maharashtra,Mumbai Suburban,Data Analyst Intern
+Capgemini,B.Tech Mechanical,"MS Excel, Communication, Business Writing",West Bengal,Kolkata,Data Analyst Intern
+Mindtree,MCA,"Embedded Systems, IoT, C",Maharashtra,Mumbai Suburban,Software Development Intern
+Infosys,BCA,"Python, Django, REST APIs",Delhi,New Delhi,Full Stack Intern
+L&T Infotech,BBA,"JavaScript, React, Node.js",Tamil Nadu,Chennai,Business Analyst Intern
+L&T Infotech,B.Tech Mechanical,"Python, Django, REST APIs",Rajasthan,Jaipur,Backend Intern
+L&T Infotech,B.Sc IT,"MS Excel, Communication, Business Writing",Uttar Pradesh,Lucknow,Data Analyst Intern
+Oracle India,B.Tech Mechanical,"Embedded Systems, IoT, C",Karnataka,Bengaluru Urban,Business Analyst Intern
+Accenture,BCA,"Java, Spring Boot, MySQL",West Bengal,Kolkata,Embedded Systems Intern
+L&T Infotech,B.Tech Computer Science,"Business Analysis, Excel, Power BI",Telangana,Hyderabad,Embedded Systems Intern
+HCL Technologies,BCA,"Python, Django, REST APIs",Maharashtra,Mumbai Suburban,Backend Intern
+L&T Infotech,B.Tech ECE,"Python, SQL, Data Analysis",Maharashtra,Pune,UI/UX Design Intern
+Oracle India,B.Tech ECE,"Cloud, Kubernetes, Docker",Haryana,Gurgaon,Business Analyst Intern
+Tech Mahindra,BBA,"Python, SQL, Data Analysis",Tamil Nadu,Chennai,Software Development Intern
+Mphasis,B.Tech ECE,"AI, Machine Learning, Python",Tamil Nadu,Chennai,Database Intern
+Persistent Systems,BBA,"Python, Django, REST APIs",Karnataka,Bengaluru Urban,Business Analyst Intern
+Persistent Systems,BBA,"Business Analysis, Excel, Power BI",Maharashtra,Mumbai Suburban,Database Intern
+Accenture,B.Tech Mechanical,"Embedded Systems, IoT, C",Kerala,Ernakulam,Business Analyst Intern
+Tech Mahindra,MCA,"Python, Django, REST APIs",Gujarat,Ahmedabad,Embedded Systems Intern
+Capgemini,MCA,"MS Excel, Communication, Business Writing",Rajasthan,Jaipur,Embedded Systems Intern
+Wipro,MCA,"Business Analysis, Excel, Power BI",Haryana,Gurgaon,Backend Intern
+Infosys,B.Tech Computer Science,"Business Analysis, Excel, Power BI",Maharashtra,Pune,Data Analyst Intern
+L&T Infotech,B.Sc IT,"Cloud, Kubernetes, Docker",Kerala,Ernakulam,Frontend Intern
+Accenture,MCA,"Python, Django, REST APIs",Kerala,Ernakulam,Business Analyst Intern
+Accenture,B.Sc IT,"Java, Spring Boot, MySQL",Haryana,Gurgaon,Business Analyst Intern
+Infosys,BCA,"Python, Django, REST APIs",Maharashtra,Pune,Business Analyst Intern
+TCS,MCA,"Python, Django, REST APIs",Punjab,Amritsar,IoT Intern
+Mphasis,MCA,"Embedded Systems, IoT, C",Rajasthan,Jaipur,Full Stack Intern
+IBM India,B.Com,"Java, Spring Boot, MySQL",Kerala,Ernakulam,Business Analyst Intern
+HCL Technologies,BCA,"Business Analysis, Excel, Power BI",Kerala,Ernakulam,Business Analyst Intern
+Mindtree,M.Tech Computer Science,"JavaScript, React, Node.js",Madhya Pradesh,Indore,Cloud Engineering Intern
+Persistent Systems,B.Com,"MS Excel, Communication, Business Writing",Maharashtra,Mumbai Suburban,Software Development Intern
+Tech Mahindra,B.Tech ECE,"Cloud, Kubernetes, Docker",Gujarat,Ahmedabad,Web Development Intern
+Zoho,B.Com,"MS Excel, Communication, Business Writing",Rajasthan,Jaipur,Data Analyst Intern
+IBM India,B.Com,"Cloud, Kubernetes, Docker",Maharashtra,Pune,Database Intern
+Wipro,BCA,"Python, SQL, Data Analysis",Haryana,Gurgaon,AI Intern
+L&T Infotech,B.Com,"Cloud, Kubernetes, Docker",Gujarat,Ahmedabad,Database Intern
+Zoho,M.Tech Computer Science,"JavaScript, React, Node.js",Uttar Pradesh,Lucknow,AI Intern
+Infosys,B.Tech Mechanical,"MS Excel, Communication, Business Writing",West Bengal,Kolkata,Embedded Systems Intern
+IBM India,B.Sc IT,"Python, Django, REST APIs",Telangana,Hyderabad,Embedded Systems Intern
+Accenture,B.Tech Mechanical,"Embedded Systems, IoT, C",Karnataka,Bengaluru Urban,AI Intern
+Infosys,M.Tech Computer Science,"Python, Django, REST APIs",Delhi,New Delhi,Network Security Intern
+Zoho,MBA,"Cloud, Kubernetes, Docker",Delhi,New Delhi,Backend Intern
+Mphasis,MBA,"C++, Cloud Computing, Linux",Rajasthan,Jaipur,AI Intern
+Infosys,B.Tech Computer Science,"C++, Cloud Computing, Linux",Uttar Pradesh,Lucknow,Business Analyst Intern
+Persistent Systems,B.Sc IT,"C++, Cloud Computing, Linux",Gujarat,Ahmedabad,Embedded Systems Intern
+Wipro,BBA,"Java, Spring Boot, MySQL",Tamil Nadu,Kanchipuram,Database Intern
+Mphasis,BBA,"Python, SQL, Data Analysis",Madhya Pradesh,Indore,Data Analyst Intern
+Infosys,BCA,"MS Excel, Communication, Business Writing",Tamil Nadu,Kanchipuram,Backend Intern
+IBM India,BBA,"Embedded Systems, IoT, C",Gujarat,Ahmedabad,Database Intern
+Accenture,B.Tech ECE,"Cloud, Kubernetes, Docker",Uttar Pradesh,Lucknow,UI/UX Design Intern
+HCL Technologies,BBA,"JavaScript, React, Node.js",Maharashtra,Mumbai Suburban,Backend Intern
+Cognizant,B.Tech ECE,"AI, Machine Learning, Python",Tamil Nadu,Kanchipuram,Business Analyst Intern
+Accenture,B.Tech Mechanical,"Cloud, Kubernetes, Docker",Haryana,Gurgaon,IoT Intern
+Capgemini,B.Sc IT,"Business Analysis, Excel, Power BI",Tamil Nadu,Chennai,Machine Learning Intern
+Cognizant,B.Com,"JavaScript, React, Node.js",Maharashtra,Pune,Cloud Engineering Intern
+Oracle India,MBA,"Python, SQL, Data Analysis",Maharashtra,Pune,Embedded Systems Intern
+L&T Infotech,B.Tech Computer Science,"Python, SQL, Data Analysis",Karnataka,Bengaluru Urban,Business Analyst Intern
+Oracle India,MBA,"C++, Cloud Computing, Linux",Kerala,Ernakulam,Business Analyst Intern
+Accenture,B.Tech ECE,"Python, Django, REST APIs",Karnataka,Bengaluru Urban,Data Analyst Intern
+HCL Technologies,B.Tech Computer Science,"JavaScript, React, Node.js",Madhya Pradesh,Indore,Database Intern
+HCL Technologies,B.Com,"Python, SQL, Data Analysis",West Bengal,Kolkata,Full Stack Intern
+Infosys,B.Tech Computer Science,"JavaScript, React, Node.js",Tamil Nadu,Kanchipuram,Database Intern
+Capgemini,MBA,"Python, SQL, Data Analysis",Gujarat,Ahmedabad,AI Intern
+Tech Mahindra,B.Tech ECE,"Cloud, Kubernetes, Docker",Rajasthan,Jaipur,Cloud Engineering Intern
+IBM India,BBA,"JavaScript, React, Node.js",Uttar Pradesh,Lucknow,Business Analyst Intern
+Mphasis,B.Tech ECE,"Python, Django, REST APIs",West Bengal,Kolkata,Backend Intern
+Cognizant,MCA,"MS Excel, Communication, Business Writing",Kerala,Ernakulam,AI Intern
+Oracle India,MCA,"Java, Spring Boot, MySQL",West Bengal,Kolkata,Software Development Intern
+Infosys,BBA,"JavaScript, React, Node.js",Haryana,Gurgaon,AI Intern
+Wipro,BCA,"Business Analysis, Excel, Power BI",West Bengal,Kolkata,Full Stack Intern
+Capgemini,MBA,"Cloud, Kubernetes, Docker",Uttar Pradesh,Lucknow,Cloud Engineering Intern
+Oracle India,B.Tech ECE,"C++, Cloud Computing, Linux",Tamil Nadu,Chennai,IoT Intern
+Accenture,B.Sc IT,"Embedded Systems, IoT, C",Delhi,New Delhi,IoT Intern
+Tech Mahindra,M.Tech Computer Science,"Java, Spring Boot, MySQL",Uttar Pradesh,Lucknow,Full Stack Intern
+HCL Technologies,M.Tech Computer Science,"JavaScript, React, Node.js",Rajasthan,Jaipur,Machine Learning Intern
+Wipro,M.Tech Computer Science,"Business Analysis, Excel, Power BI",Karnataka,Bengaluru Urban,IoT Intern
+Wipro,B.Com,"Python, Django, REST APIs",Madhya Pradesh,Indore,Data Analyst Intern
+HCL Technologies,M.Tech Computer Science,"Embedded Systems, IoT, C",Telangana,Hyderabad,IoT Intern
+Wipro,B.Com,"Python, Django, REST APIs",Delhi,New Delhi,UI/UX Design Intern
+Wipro,B.Com,"C++, Cloud Computing, Linux",Madhya Pradesh,Indore,UI/UX Design Intern
+Zoho,MBA,"Embedded Systems, IoT, C",Delhi,New Delhi,Web Development Intern
+TCS,M.Tech Computer Science,"Business Analysis, Excel, Power BI",Rajasthan,Jaipur,Database Intern
+Capgemini,BCA,"Cloud, Kubernetes, Docker",Maharashtra,Pune,Backend Intern
+Zoho,BCA,"MS Excel, Communication, Business Writing",Delhi,New Delhi,Full Stack Intern
+Wipro,M.Tech Computer Science,"Cloud, Kubernetes, Docker",Haryana,Gurgaon,AI Intern
+Mindtree,BBA,"C++, Cloud Computing, Linux",Karnataka,Bengaluru Urban,Data Analyst Intern
+Mindtree,M.Tech Computer Science,"C++, Cloud Computing, Linux",Haryana,Gurgaon,Software Development Intern
+Capgemini,B.Tech ECE,"AI, Machine Learning, Python",Delhi,New Delhi,Frontend Intern
+Oracle India,B.Tech Computer Science,"Business Analysis, Excel, Power BI",West Bengal,Kolkata,AI Intern
+Mphasis,B.Tech ECE,"Business Analysis, Excel, Power BI",Karnataka,Bengaluru Urban,Frontend Intern
+Accenture,B.Tech ECE,"Business Analysis, Excel, Power BI",Haryana,Gurgaon,IoT Intern
+IBM India,MBA,"MS Excel, Communication, Business Writing",Rajasthan,Jaipur,Frontend Intern
+Persistent Systems,B.Com,"Python, Django, REST APIs",Karnataka,Bengaluru Urban,Software Development Intern
+Zoho,BBA,"Cloud, Kubernetes, Docker",Haryana,Gurgaon,Cloud Engineering Intern
+Oracle India,BCA,"Python, Django, REST APIs",Punjab,Amritsar,Cloud Engineering Intern
+TCS,B.Tech Mechanical,"Cloud, Kubernetes, Docker",Haryana,Gurgaon,UI/UX Design Intern
+IBM India,B.Tech Mechanical,"Business Analysis, Excel, Power BI",Gujarat,Ahmedabad,Network Security Intern
+Oracle India,MBA,"JavaScript, React, Node.js",Delhi,New Delhi,Business Analyst Intern
+Zoho,B.Tech Computer Science,"AI, Machine Learning, Python",Delhi,New Delhi,AI Intern
+HCL Technologies,BBA,"MS Excel, Communication, Business Writing",Karnataka,Bengaluru Urban,Software Development Intern
+Accenture,BBA,"Python, SQL, Data Analysis",Maharashtra,Mumbai Suburban,Embedded Systems Intern
+TCS,B.Com,"C++, Cloud Computing, Linux",Kerala,Ernakulam,Full Stack Intern
+Capgemini,B.Com,"C++, Cloud Computing, Linux",West Bengal,Kolkata,IoT Intern
+Zoho,B.Sc IT,"C++, Cloud Computing, Linux",Punjab,Amritsar,Network Security Intern
+HCL Technologies,B.Sc IT,"C++, Cloud Computing, Linux",Rajasthan,Jaipur,Web Development Intern
+Persistent Systems,B.Tech Mechanical,"Python, Django, REST APIs",Uttar Pradesh,Lucknow,Backend Intern
+Persistent Systems,MBA,"AI, Machine Learning, Python",West Bengal,Kolkata,Web Development Intern
+Zoho,B.Com,"C++, Cloud Computing, Linux",Madhya Pradesh,Indore,Network Security Intern
+L&T Infotech,BCA,"Python, Django, REST APIs",Haryana,Gurgaon,Full Stack Intern
+Accenture,B.Sc IT,"Python, SQL, Data Analysis",Gujarat,Ahmedabad,Machine Learning Intern
+Cognizant,B.Tech ECE,"Business Analysis, Excel, Power BI",Rajasthan,Jaipur,AI Intern
+Zoho,B.Tech Computer Science,"C++, Cloud Computing, Linux",Karnataka,Bengaluru Urban,Business Analyst Intern
+Cognizant,BBA,"Python, SQL, Data Analysis",Rajasthan,Jaipur,IoT Intern
+L&T Infotech,B.Sc IT,"AI, Machine Learning, Python",Kerala,Ernakulam,UI/UX Design Intern
+HCL Technologies,M.Tech Computer Science,"MS Excel, Communication, Business Writing",Karnataka,Bengaluru Urban,Database Intern
+TCS,MCA,"Cloud, Kubernetes, Docker",Tamil Nadu,Kanchipuram,Web Development Intern
+Wipro,B.Sc IT,"MS Excel, Communication, Business Writing",West Bengal,Kolkata,Frontend Intern
+Cognizant,B.Tech ECE,"AI, Machine Learning, Python",Karnataka,Bengaluru Urban,Cloud Engineering Intern
+Infosys,BBA,"Business Analysis, Excel, Power BI",Delhi,New Delhi,AI Intern
+Tech Mahindra,MBA,"C++, Cloud Computing, Linux",Haryana,Gurgaon,Frontend Intern
