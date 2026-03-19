@@ -1,0 +1,19 @@
+{
+  "name": "Jaggy",
+  "short_name": "Jaggy",
+  "description": "100% Natural & Organic Products — Directly sourced from trusted farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#16a34a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "food"]
+}
